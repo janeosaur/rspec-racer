@@ -4,7 +4,7 @@ Last Edited By: Brianna
 Location: SF
 -->
 
-#<img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> RSpec Racer
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> RSpec Racer
 
 <img src="http://www.bettingsites.us/wp-content/uploads/Formula-1-1.jpg" width="60%">
 
