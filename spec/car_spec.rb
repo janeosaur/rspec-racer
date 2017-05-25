@@ -6,7 +6,7 @@ RSpec.describe Car do
   end
 
   describe '#speed' do
-    it "has a speed getter method"
+    it 'has a speed getter method'
   end
 
   describe '#accelerate' do
